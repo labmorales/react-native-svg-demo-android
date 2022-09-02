@@ -13,5 +13,6 @@ Snack is Open Source. You can find the code on the [GitHub repo](https://github.
 # How to run it
 
 ```shell
+yarn
 yarn android
 ```
