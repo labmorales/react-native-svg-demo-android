@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "react-native-svg---box-none-not-working-properly",
+    "slug": "snack-618195a9-2efb-4c8c-a676-e4168c88fba3",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.amorales85.snack618195a92efb4c8ca676e4168c88fba3"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.amorales85.snack618195a92efb4c8ca676e4168c88fba3"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
